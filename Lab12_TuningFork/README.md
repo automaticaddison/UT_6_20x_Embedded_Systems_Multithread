@@ -24,3 +24,7 @@ input, and you will interface the headphones as an output.  <br/>
 
 ## Functionality
 The tone is initially off, when the switch goes from not touched to touched, the tone toggles on/off.
+
+## Photo of My Tuning Fork Project
+![lab_12a](https://github.com/automaticaddison/UT_6_20x_Embedded_Systems_Multithread/blob/master/Lab12_TuningFork/20180818__lab12_1.jpg)
+![lab_12b](https://github.com/automaticaddison/UT_6_20x_Embedded_Systems_Multithread/blob/master/Lab12_TuningFork/20180818_lab12_2.jpg)
