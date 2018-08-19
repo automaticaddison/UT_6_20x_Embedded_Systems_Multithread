@@ -1,6 +1,6 @@
 # Lab12_TuningFork
 [E-book link](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/C12_Interrupts.htm) <br/> 
-[Professor Valvano describing the lab] (https://www.youtube.com/watch?v=VPnIBZxOL-A) <br/> 
+[Professor Valvano describing the lab](https://www.youtube.com/watch?v=VPnIBZxOL-A) <br/> 
 
 ## Purpose
 This lab has these major objectives:  <br/> 
