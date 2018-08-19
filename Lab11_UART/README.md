@@ -1,6 +1,6 @@
 # Lab11_UART
 [E-book link](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/C11_SerialInterface.htm) <br/> 
-[Professor explaining the lab] (https://www.youtube.com/watch?v=u7Hs55N1FAo) <br/>
+[Professor explaining the lab](https://www.youtube.com/watch?v=u7Hs55N1FAo) <br/>
 
 ## Purpose
 In Lab11 you will learn how to write software that converts numbers into ASCII strings and display <br/>
