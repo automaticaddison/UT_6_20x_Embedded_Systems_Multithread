@@ -3,7 +3,7 @@
 [Professor explaining the lab](https://www.youtube.com/watch?v=u7Hs55N1FAo) <br/>
 
 ## Purpose
-In Lab11 you will learn how to write software that converts numbers into ASCII strings and display <br/>
+In Lab11, you will learn how to write software that converts numbers into ASCII strings and display <br/>
 the string on the display connected to UART0. Please read the entire lab before starting.<br/>
 
 ## Equipment
