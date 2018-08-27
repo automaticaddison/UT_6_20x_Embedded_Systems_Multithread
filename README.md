@@ -6,11 +6,6 @@ __Site:__ [edX](https://www.edx.org/course/embedded-systems-shape-the-world-mult
 __Date:__ August - September 2018<br />
 __School:__ University of Texas at Austin  
 
-## Certificate
-* [Certificate](https://courses.edx.org/certificates/9651ca988f4c4c9aa71f042c2f2ceaec)
-* [My Final Project - XXXX](https://github.com/automaticaddison/UT_6_20x_Embedded_Systems_Multithread/)
-
-
 ## Description
 Each folder will contain all the necessary files for the specified lab.  
 Some labs required constructing a physical electrical circuit.
@@ -29,8 +24,3 @@ There are some file types that appear in every lab asssignment.
 
 ## Other Resources
 [__e-Book__](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/) - e-Book is basically a transcript of the entire course
-
-## Photo of My Final Project (XXXX)
-![lab_8a](XXXX)
-![lab_8b](XXXX)
-![lab_8c](XXXX)
